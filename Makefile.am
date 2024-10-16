@@ -1,4 +1,4 @@
-## This is the testing file
+## This is the testing file for checking repositories
 ## Process this file with automake to produce Makefile.in
 
 AM_CXXFLAGS = $(MPI_CFLAGS)
